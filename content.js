@@ -23,7 +23,7 @@ txt=[
 
 onload=function(){
 	f=function(v,m){return Function('w,x,y,z',m||v)}
-	fill=f("w.className='focused',z=txt[x],y[3].innerText=z[0],y[4].outerHTML='<a href='+z[3]+' target=_blank>'+z[1]+'</a>',iframe.src='//youtube.com/embed/'+z[2],console.log(7)")
+	fill=f("w.className='focused',z=txt[x],y[3].innerText=z[0],y[4].outerHTML='<a href='+z[1]+' target=_blank>'+z[1]+'</a>',iframe.src='//youtube.com/embed/'+z[2],console.log(7)")
 
 	console.log(5)
 	for(ch=section.children,i=ch.length;i--;)
