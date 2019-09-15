@@ -444,8 +444,8 @@ section>div.focused{
   width:auto;
 }
 section>div.focused img {
- width:241px;
- height:253px;
+ width:400px;
+ height:300px;
  max-width:100%;
  float: right;
  border:#a4d9fd 1px solid;
